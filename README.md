@@ -20,7 +20,7 @@ Olá, sou Pedro Willian. Atualmente estou cursando o 5º semestre de Análise e 
 Clique no link para acessar as informações do projeto.
 
 ### 2º Semestre de 2020
-* Projeto: [Mr. Academy](https://github.com/pedrowil12/TG-Portfolio/tree/main/projetos/MrAcademy)<img src="./docs/img/profile.jpeg" width="20px; alig" alt="Foto Perfil"/><br>
+* Projeto: [Mr. Academy](https://github.com/pedrowil12/TG-Portfolio/tree/main/projetos/MrAcademy)
 
 
 ### 1º Semestre de 2021
