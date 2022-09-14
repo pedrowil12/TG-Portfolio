@@ -1,4 +1,9 @@
-# Pedro Willian de Paula Ferreira
+<h1 align="center">Pedro Willian de Paula Ferreira</h1>
+
+<p align="center">
+  <img src="./docs/img/profile.jpeg" width="150px; alig" alt="Foto Perfil"/><br>
+</p>
+
 
 ## Sumário
 
@@ -8,10 +13,6 @@
 * [Contato](#contatos)
 
 <br/>
-
-<p align="center">
-  <img src="./docs/img/profile.jpeg" width="150px; alig" alt="Foto Perfil"/><br>
-</p>
 
 ## Introdução
 Olá, sou Pedro Willian. Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC - Profº Jessen Vidal localizada em São José dos Campos. Atualmente estágiario em Desenvolvimento Web na Pro4Tech.
