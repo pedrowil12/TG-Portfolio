@@ -9,7 +9,7 @@ Enquanto objetivos específicos, identificam-se a elaboração de conteúdos de 
 </p>
 
 ## **Tecnologias Utilizadas**
-Tecnologias | Usamos para
+Tecnologias | Descrição
 ----------|---------
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width = "95px" height="25px"> | <p align = "justify">A linguagem de alto nível, JavaScript foi desenvolvida, primordialmente, para ser executada em navegadores e manipular os comportamentos de páginas web.</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width = "85px" height="25px"> | <p align = "justify">Hypertext Markup Language, o HTML, é a linguagem de marcação padrão para a criação de páginas na web. Utilizando as tags do HTML podemos estruturar, desmembrar, organizar e exibir conteúdo conforme programado.</p>
