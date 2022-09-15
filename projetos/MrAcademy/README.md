@@ -19,7 +19,19 @@ Tecnologias | Descrição
 
 
 ## **Contribuições Pessoais**
+<p align="justify">
+Nesse projeto fui membro da equipe de desenvolvimento, contribuindo tanto do Front-End como no Back-End, auxiliei no desenvolvimento da interface do website no Front-End, já no Back-End realizei o processo de compra do produto até o momento de seu pagamento, às ferramentas utilizadas para essas atividades foram HTML, CSS, JavaScript, Bootstrap e PHP.
+</p>
 
 ## **Hard Skills**
+* HTML: Sei fazer com autonomia;
+* CSS: Sei fazer com autonomia;
+* JavaScript: Sei fazer com autonimia;
+* Bootstrap: Sei fazer com autonimia;
+* PHP: Sei fazer com auxilo.
 
 ## **Soft Skills**
+* Gestão de equipes: aprendizado da metodologia SCRUM com o intuito do rápido desenvolvimento;
+* Gestão de tempo: gerenciamento e otmização do tempo a fim de realizar entregas dentro do prazo;
+* Desenvolvimento de pesquisa: busca e aprendizado de novas ferramentas e tecnologias para realizar a solução do que foi proposto;
+* Trabalho em equipe: divisão das tarefas e auxílio um dos outros para resolver problemas técnicos.
