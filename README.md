@@ -16,6 +16,7 @@
 
 ## Introdução
 Olá, sou Pedro Willian. Atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC - Profº Jessen Vidal localizada em São José dos Campos. Atualmente estágiario em Desenvolvimento Web na Pro4Tech.
+Este repositório possui o intuito de apresentar os API (Aprendizagem por Projetos Integrados) que foram realizados durante a graduação.
 
 ## Projetos Acadêmicos Realizados
 Clique no link para acessar as informações do projeto.
