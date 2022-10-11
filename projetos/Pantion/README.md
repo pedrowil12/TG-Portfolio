@@ -19,7 +19,7 @@ Tecnologias | Usamos para
 
 ## **Contribuições Pessoais**
 <p align="justify">
-Nesse projeto fui membro da equipe de desenvolvimento, contribuindo tanto do Front-End como no Back-End, auxiliei no desenvolvimento da interface do website no Front-End, e implementação dos gráficos, já no Back-End realizei às chamadas de dados para o front-end e também sua exibição de dados dentro dos gráficos.
+Nesse projeto fui membro da equipe de desenvolvimento, contribuindo tanto do Front-End como no Back-End, auxiliei no desenvolvimento da interface do website no Front-End, e implementação dos gráficos, já no Back-End realizei às chamadas de dados para o front-end e também sua exibição de dados dentro dos gráficos, também colaborei na divisão dos projetos por categorias dentro de um kanban.
 </p>
 
 ## **Hard Skills**
