@@ -11,11 +11,11 @@ Enquanto objetivos específicos, identificam-se a elaboração de conteúdos de 
 ## **Tecnologias Utilizadas**
 Tecnologias | Descrição
 ----------|---------
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width = "95px" height="25px"> | <p align = "justify">A linguagem de alto nível, JavaScript foi desenvolvida, primordialmente, para ser executada em navegadores e manipular os comportamentos de páginas web.</p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width = "85px" height="25px"> | <p align = "justify">Hypertext Markup Language, o HTML, é a linguagem de marcação padrão para a criação de páginas na web. Utilizando as tags do HTML podemos estruturar, desmembrar, organizar e exibir conteúdo conforme programado.</p>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width = "75px" height="25px"> | <p align = "justify">Cascading Style Sheets, o CSS, é focado no estilo de uma aplicação web. Possuindo a capacidade de melhorar toda a parte estética de um layout, adicionando ou alterando determinadas propriedades, como por exemplo: cores, características de fontes, margens, posicionamento, linhas, alturas, larguras, imagens de fundo etc.</p>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width = "95px" height="25px"> | <p align = "justify">É um framework, facilitador na elaboração do design de websites e outras tecnologias. Dispõe de uma grande variedade de temas, oferecendo padrões e templates baseados em HTML e CSS para várias funções e componentes de uma aplicação web.</p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width = "95px" height="25px"> | <p align = "justify">PHP é uma linguagem interpretada, que é especificamente apropriada para desenvolvimento web do lado do servidor. É uma linguagem de código aberto e é conhecida mundialmente.</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width = "95px" height="25px"> | <p align = "justify">A linguagem de alto nível, JavaScript foi utilizada no front-end da aplicação, realizando efeitos e facilitando na criação de alguns componentes da interface.</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width = "85px" height="25px"> | <p align = "justify">Hypertext Markup Language, o HTML, é a linguagem de marcação padrão para a criação de páginas na web, por meio dela realizamos às estruturas das páginas web.</p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width = "75px" height="25px"> | <p align = "justify">Cascading Style Sheets, o CSS, é focado no estilo de uma aplicação web, sua importância foi para deixar o visual da aplicação mais atraente ao cliente, deixando um layout bonito e agradável aos olhos do usuário.</p>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width = "95px" height="25px"> | <p align = "justify">É um framework, facilitador na elaboração do design de websites e outras tecnologias, foi utilizado por ser fácil de manipular dentro do mesmo o html e css, trazendo assim componentes responsivos com maior facilidade.</p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width = "95px" height="25px"> | <p align = "justify">PHP é uma linguagem interpretada, que é especificamente apropriada para desenvolvimento web do lado do servidor, usado para o desenvolvimento do back-end da aplicação, ou seja, para o desenvolvimento das funcionalidades do sistema.</p>
 
 
 ## **Contribuições Pessoais**
@@ -31,7 +31,6 @@ Nesse projeto fui membro da equipe de desenvolvimento, contribuindo tanto do Fro
 * PHP: Sei fazer com auxilo.
 
 ## **Soft Skills**
-* Gestão de equipes: aprendizado da metodologia SCRUM com o intuito do rápido desenvolvimento;
-* Gestão de tempo: gerenciamento e otmização do tempo a fim de realizar entregas dentro do prazo;
-* Desenvolvimento de pesquisa: busca e aprendizado de novas ferramentas e tecnologias para realizar a solução do que foi proposto;
-* Trabalho em equipe: divisão das tarefas e auxílio um dos outros para resolver problemas técnicos.
+* Gestão de tempo: com a metodologia do desenvolvimeto ágil, os time de desenvolvimento tinha foco em entregar às atividades propostas dentro do menor tempo e maior qualidade possível, para que não atrase a entrega e entre dentro do escopo do backlog;
+* Desenvolvimento de pesquisa: busca e aprendizado de novas ferramentas e tecnologias para realizar a solução do que foi proposto, por ser a primeira vez com contato na programação, tive que assistir inúmeras aulas de como desenvolver para web e sempre pesquisar mediante aos problemas;
+* Trabalho em equipe: divisão das tarefas e colaboração quando havia algum impedimento.
