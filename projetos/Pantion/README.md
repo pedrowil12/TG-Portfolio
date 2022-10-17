@@ -30,4 +30,7 @@ Nesse projeto fui membro da equipe de desenvolvimento, contribuindo tanto do Fro
 * Google charts: Sei fazer com auxílio.
 
 ## **Soft Skills**
+* Adaptabilidade: Sendo este o segundo API, tive uma maior adaptabilidade em relação aos códigos, já não possuía às mesmas dificuldades na hora de desenvolver a aplicação, maior adaptabilidade para o método Scrum, no que prestar atenção para não falhar e se falhar corrigir o mais rápido possível;
+* Comunicação: Nesse projeto desenvolvi uma melhor comunicação com o time, do que fazer, onde havia dúvidas, como realizar e entre outros. A comunicação foi fundamental para a divisão das atividades, detalhando os pontos fortes e fracos de cada componente da equipe;
+* Contextualizador: Analisando o contexto dos requisitos solicitados, do quanto podemos nos aprofundar na aplicação para cumprir os requisitor e superar às expectativas do cliente, a visualização do contexto do projeto e equipe nos proporcionou um desenvolvimento mais organizado.
 
