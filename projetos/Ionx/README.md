@@ -31,4 +31,7 @@ Nesse projeto fui membro da equipe de desenvolvimento, contribuindo tanto do Fro
 * HighCharts: Sei fazer com autonomia.
 
 ## **Soft Skills**
+* Organização: Neste projeto consegui focar melhor na organização do código, tentando realizar da melhor maneira possível, observando e aprendendo sobre a linguagem para verificar o melhor modo de desenvolvimento e a melhor estrutura para a aplicação idealizada pelo cliente;
+* Disciplina: Em conjunto com o desenvolviemento veio a disciplina, onde conseguia um melhor foco para aquilo que estava realizando e entregando às atividades no prazo;
+* Realização: A realização desse projeto dependia do esforço e da perseverança, o foco no produto e em sua realização era o essencial para um desenvolvento ágil de qualidade.
 
