@@ -7,8 +7,7 @@
 O objetivo geral deste projeto é a criação de uma plataforma de estudos, onde o usuário poderá ter acesso à materiais didáticos que o auxiliem em seu aprendizado, em especial destaque, alunos de Ensino Superior do curso de Análise de Sistema. O material a ser disponibilizado é referente às matérias de Matemática Discreta, Inglês, Português, Algoritmos de Programação, Laboratório de Hardware e Arquitetura e Organização de Computadores (AOC). 
 Enquanto objetivos específicos, identificam-se a elaboração de conteúdos de forma simples e explicativa, organizando-os através de um ambiente acessível intuitivo - tanto para alunos, quanto professores, facilitando sua consulta na plataforma em sua busca de conhecimento.
 </p>
-[Observe às funcionalidades do projeto.](https://www.youtube.com/watch?v=SooPz-2a4lg)
-
+<a href="https://www.youtube.com/watch?v=SooPz-2a4lg">Confira às funcionalidades do projeto.</a>
 
 ## **Tecnologias Utilizadas**
 Tecnologias | Descrição
