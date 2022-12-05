@@ -1,4 +1,8 @@
-# TecSoja<h2>Descrição</h2>
+<a href="https://github.com/ThomasPalma1/FatecAPI-04"><h1 align="center"> TecSoja <img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/tecsoja.svg" width="40"></h1></a>
+
+
+
+<h2>Descrição</h2>
 <p align = "justify">
 A TecSoja, aplicativo para celular, visa atender estas demandas do uso da tecnologia para uma melhor produção de soja, sendo o foco na análise e aumento da produtividade.
 A solução proposta por este aplicativo permite que o agricultor possa estimar sua produtividade a cada cultivo e produtividade total, além de comparar a produtividade e áreas plantadas nos municípios. O agricultor também poderá ter uma melhor análise de custos, clima e época ideal de colheita com base na geolocalização do seu cultivo.
