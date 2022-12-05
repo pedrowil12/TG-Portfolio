@@ -1,9 +1,14 @@
 <h1 align="center"> Pantion <img src="https://github.com/roogercamargo/FatecAPI-02/blob/main/doc/logo/logocor1.png" width="40"></h1>
 
 <h2>Descrição</h2>
-<p align = "justify">O desafio trata-se de um Dashboard para análise de dados dos projetos e acompanhamento de performance dos desenvolvedores responsáveis, o mesmo foi proposto pela empresa GSW que é uma empresa especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, tributária, CRM, entre outros. O objetivo é desenvolver para o nosso cliente, um painel de visualização, onde ele conseguirá analisar e entender tudo o que está acontecendo nos projetos abertos dentro da empresa, sem precisar interferir diretamente em seu desenvolvimento, transmitindo assim de forma rapida e eficaz o desenvolvimento dos projetos para o responsável e administradores da empresa.</p
+<p align = "justify">O desafio trata-se de um Dashboard para análise de dados dos projetos e acompanhamento de performance dos desenvolvedores responsáveis. O objetivo é desenvolver para o nosso cliente, um painel de visualização, onde ele conseguirá analisar e entender tudo o que está acontecendo nos projetos abertos dentro da empresa, sem precisar interferir diretamente em seu desenvolvimento, transmitindo assim de forma rapida e eficaz o desenvolvimento dos projetos para o responsável e administradores da empresa.</p
 
 <a href="https://www.youtube.com/watch?v=UdmSo1sERvM">Confira às funcionalidades do projeto.</a>
+
+## **Empresa Parceira**
+<p align="justify">
+A empresa parceira desse projeto foi a GSW que é uma empresa especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gerencimento, controle de processo e negócios. A GSW atua desde 1991 e possui sua matriz em São José dos Campos.
+</p>
 
 ## **Tecnologias Utilizadas**
 Tecnologias | Usamos para
