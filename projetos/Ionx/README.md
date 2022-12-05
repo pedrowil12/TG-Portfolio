@@ -2,9 +2,15 @@
 
 <h2>Descrição</h2>
 <p align = "justify">
-Com  o aumento  na  quantidade  de  clientes,  cresce  a  complexidade  de  manter  um  bom  relacionamento com todos eles. Para isso é necessário uma plataforma para melhor gerenciamento de contatos e vendas com cada um deles, a empresa responsável por nos forncer este desafio foi a Ionic health, a Ionic é uma empresa especializada em inovação e transformação digital para a saúde, desenvolvendo soluções que automatizam, monitoram e teleoperam equipamentos clínicos. Dentro desse desafio a plataforma web deve realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes. Seu layout deve ser de fácil personalização, trazendo autonomia para a gestão da plataforma.</p
+Com  o aumento  na  quantidade  de  clientes,  cresce  a  complexidade  de  manter  um  bom  relacionamento com todos eles. Para isso é necessário uma plataforma para melhor gerenciamento de contatos e vendas com cada um deles, a empresa responsável por nos forncer este desafio foi a Ionic health. Dentro desse desafio a plataforma web deve realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes. Seu layout deve ser de fácil personalização, trazendo autonomia para a gestão da plataforma.</p
 
 <a href="https://www.youtube.com/watch?v=O7HI43gddnQ">Confira às funcionalidades do projeto.</a>
+
+## **Empresa Parceira**
+<p align="justify">
+A IONIC Health é uma empresa especializada em inovação e transformação digital para a saúde, desenvolvendo soluções que automatizam, monitoram e teleoperam equipamentos clínicos.
+</p>
+
 
 ## **Tecnologias Utilizadas**
 
