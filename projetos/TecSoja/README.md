@@ -9,10 +9,12 @@ A solução proposta por este aplicativo permite que o agricultor possa estimar 
 Portanto este aplicativo consolidará registros e informações focadas no cultivo e região do produtor de forma que as informações possam proporcionar melhores análises sobre sua produtividade e assim esta possa ser melhorada.
 
 Para mais detalhes <a href="https://github.com/ThomasPalma1/FatecAPI-04">clique aqui.</a>
-</p
+</p>
 
-
-## **Sobre a Empresa**
+## **Sobre a empresa**
+<p align="justify">
+A Visiona Tecnologia Espacial é uma joint-venture voltada para integração de sistemas espaciais. Foi fundada em 2012 com o intuito de atender o PNAE e PESE. A Visiona foi responsável pelo Satélite Geostacionário de Defesa e Comunicação Estratégicas, o SGDC, lannçado em 2017. 
+</p>
 
 ## **Tecnologias Utilizadas**
 
