@@ -37,3 +37,6 @@ Nesse projeto fui Scrum Master, ajudei a eliminar os impasses na equipe, garanti
 * MongoDB: Sei fazer com ajuda;
 
 ## **Soft Skills**
+* Comunicação: Como Scrum Master, tive que aprimorar minha comunicação com a equipe, entender e deixar com que eles se comuniquem os pontos fortes e pontos fracos de cada membrom, essa liberdade proporcionou um projeto eficaz e ágil, onde cada um trabalhou naquilo onde possuí maior desempenho.
+
+* Responsabilidade: Desenvolvi uma maior responsabilidade, com foco naquilo que tinha que ser feito e em gerenciar o time, sem que nenhum membro seja prejudicado; entregando o que foi acordado com o cliente no tempo certo e com o melhor desempenho possível.
