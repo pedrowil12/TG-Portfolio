@@ -41,6 +41,9 @@ Clique no link para acessar as informações do projeto.
 * Projeto: [Alô Cidadão](https://github.com/pedrowil12/TG-Portfolio/tree/main/projetos/AloCidadao)
 
 
+### 1º Semestre de 2023
+* Projeto: [MoneyMind](https://github.com/pedrowil12/TG-Portfolio/tree/main/projetos/MoneyMind)
+
 ## Meus Conhecimentos
 Atualmente sei programar nas linguagens C#, JavaScript, Java, Php, Python, e possuo conhecimentos em HTML, CSS, Bootstrap, React, Node, Flask, Jquery, postgreSQL, MySQL, SQL Server. Como métodos de gerenciamento de equipes e projeos os conhecimentos são Git/GitHub e metodologia Scrum.
 
