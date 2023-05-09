@@ -11,7 +11,7 @@ Para mais detalhes <a href="https://github.com/Barbara-BB/FatecAPI-06">clique aq
 
 ## **Sobre a empresa**
 <p align="justify">
-.
+O J.P. Morgan é líder global em serviços financeiros, oferecendo soluções às corporações, governos e instituições mais importantes do mundo em mais de 100 países. No sexto semestre a J.P Morgan se disponibilizou como empresa parceira.
 </p>
 
 ## **Tecnologias Utilizadas**
@@ -43,6 +43,6 @@ Nesse projeto fui membro da equipe de desenvolvimento, contribuindo no Back-End,
 * Spring: Sei fazer com autonomia;
 
 ## **Soft Skills**
-* Comunicação: Como Scrum Master, tive que aprimorar minha comunicação com a equipe, entender e deixar com que eles se comuniquem os pontos fortes e pontos fracos de cada membrom, essa liberdade proporcionou um projeto eficaz e ágil, onde cada um trabalhou naquilo onde possuí maior desempenho.
+* Adaptabilidade: No começo do projeto, a equipe estava totalmente desprovida de conhecimento sobre o assunto. Dessa forma, como um grupo, fomos explorando aos poucos todas as opções disponíveis a fim de prevenir quaisquer obstáculos relacionados à viabilidade prática do software.
 
-* Responsabilidade: Desenvolvi uma maior responsabilidade, com foco naquilo que tinha que ser feito e em gerenciar o time, sem que nenhum membro seja prejudicado; entregando o que foi acordado com o cliente no tempo certo e com o melhor desempenho possível.
+* Organização: : Neste projeto consegui focar melhor na organização do código, tentando realizar da melhor maneira possível, observando e aprendendo sobre a linguagem para verificar o melhor modo de desenvolvimento e a melhor estrutura para a aplicação idealizada pelo cliente.
