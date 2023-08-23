@@ -15,7 +15,7 @@
 <br/>
 
 ## Introdução
-Olá, sou Pedro Willian. Realizei o Ensino Médio na E.E. Profª Dirce Elias, no momento estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC - Profº Jessen Vidal localizada em São José dos Campos. Meu primeiro estágio foi como suporte de TI na loja ParaTodos, Atualmente sou estágiario em Desenvolvimento Web na Pro4Tech.
+Olá, sou Pedro Willian. Realizei o Ensino Médio na E.E. Profª Dirce Elias, no momento estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC - Profº Jessen Vidal localizada em São José dos Campos. Meu primeiro estágio foi como suporte de TI na loja ParaTodos, o segundo estágio foi em Desenvolvimento Web na Pro4Tech, atualmente sou desenvolvedor web na Pro4Tech.
 Este repositório possui o intuito de apresentar os API (Aprendizagem por Projetos Integrados) que foram realizados durante a graduação.
 
 ## Projetos Acadêmicos Realizados
